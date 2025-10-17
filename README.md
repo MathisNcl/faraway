@@ -10,8 +10,19 @@ Then:
 
 ```sh
 uv venv # to create the virtual env
+uv sync # to install synchronize with uv lock
 uv run python my_script.py # to run something
 ```
+
+Download the model:
+
+```sh
+# if doesn't work use first:
+# chmod 777 download_model.sh 
+sh download_model.sh
+```
+
+Please follow git convention while committing. See [here](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13).
 
 ## Training metrics
 

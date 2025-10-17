@@ -11,3 +11,4 @@ wheels/
 
 .ruff_cache/
 .DS_Store
+rtdetr-v2-r18/
