@@ -1,0 +1,69 @@
+﻿id;hint;stone;head;plant;night;color;quest_need_1;quest_need_2;quest_need_3;quest_need_4;quest_need_5;quest_win;quest_point
+1;;1;1;;;red;;;;;;;
+2;;2;;;;blue;;;;;;;
+3;;;;;;green;;;;;;;4
+4;;1;;1;;red;;;;;;;
+5;;;1;;;green;;;;;;;2
+6;1;1;;;;blue;;;;;;;
+7;;;1;1;;red;;;;;;;
+8;1;;1;;;green;;;;;;;
+9;;;;;;blue;;;;;;;5
+10;;;;;;red;;;;;;night;3
+11;;;;;;green;;;;;;hint;2
+12;1;;;1;;yellow;;;;;;;
+13;;;;;;blue;;;;;;stone;2
+14;;;;1;;red;;;;;;night;2
+15;1;;;;;green;;;;;;head;2
+16;;;1;;;red;;;;;;head;2
+17;;1;;;;blue;head;head;;;;stone;3
+18;;;1;;;green;;;;;;all colors;10
+19;;;;1;;red;;;;;;plant;2
+20;1;;;;1;green;stone;;;;;night;2
+21;;;;;1;blue;stone;stone;;;;;8
+22;1;;;;1;green;;;;;;hint;1
+23;;1;1;;1;red;;;;;;all colors;10
+24;;1;;;1;blue;head;;;;;night;2
+25;;;;;1;yellow;;;;;;yellow or green;1
+26;;;1;;1;red;;;;;;plant;3
+27;;;;;1;yellow;;;;;;green or blue;1
+28;;1;;;1;red;;;;;;head;3
+29;;;;1;1;yellow;;;;;;plant;2
+30;;1;;;1;red;;;;;;stone;2
+31;;;;;1;yellow;;;;;;yellow or red;1
+32;;1;1;;1;red;stone;stone;stone;;;;7
+33;1;;;;1;yellow;;;;;;plant;3
+34;;;1;;1;green;stone;stone;;;;head;3
+35;;;1;;1;yellow;;;;;;all colors;10
+36;;;;;1;red;head;head;;;;plant;4
+37;;;;;1;yellow;plant;;;;;night;3
+38;;1;;;1;green;head;plant;;;;hint;3
+39;;1;;1;1;red;head;head;;;;;9
+40;;;;;1;blue;plant;head;stone;;;night;3
+41;;;;1;;green;head;stone;stone;;;night;4
+42;;;;;;yellow;stone;head;;;;blue or green;2
+43;;1;;;;blue;;;;;;all colors;10
+44;;;;;;yellow;stone;plant;;;;blue or yellow;2
+45;;1;;;;green;head;head;head;;;;13
+46;1;;;;;blue;stone;stone;head;;;;10
+47;;;;;;yellow;plant;head;;;;yellow or red;2
+48;;;1;;;red;;;;;;stone;3
+49;1;;;;;blue;stone;stone;plant;;;;12
+50;;1;;;;yellow;plant;plant;;;;green;4
+51;;1;;;;blue;stone;stone;stone;stone;;;14
+52;;;;;;red;stone;stone;stone;;;head;4
+53;;;1;;;yellow;plant;plant;;;;red;4
+54;;;1;;;green;plant;plant;;;;hint;4
+55;1;1;;;;blue;head;plant;plant;;;stone;3
+56;;;;1;;yellow;head;head;stone;;;blue ;4
+57;;;;;;red;plant;plant;plant;;;stone;4
+58;1;;;;;green;head;head;head;;;hint;3
+59;1;;;;;yellow;head;head;head;stone;;yellow or red;3
+60;1;;;;;blue;stone;stone;head;head;;;16
+61;;;;1;;green;head;head;head;head;;;17
+62;1;;;;;yellow;plant;plant;plant;;;green or blue;3
+63;1;;;;;green;head;head;plant;;;;15
+64;1;;;;;blue;stone;stone;plant;plant;;;18
+65;1;;;;;yellow;plant;plant;plant;;;yellow or green;3
+66;;;;;;blue;stone;stone;stone;stone;;;20
+67;1;;;;;green;head;head;stone;stone;;;19
+68;;;;;;blue;stone;stone;stone;stone;stone;;24
